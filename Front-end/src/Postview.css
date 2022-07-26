@@ -1,0 +1,111 @@
+#root {
+  margin: 0;
+  padding: 0;
+}
+.Header {
+  height: 13vh;
+  border: 2px solid #bbb;
+}
+.Header img {
+  height: 80px;
+  width: 340px;
+}
+.cameraIcon img {
+  height: 80px;
+  width: 90px;
+  float: right;
+}
+.PostContainer {
+  height: 400px;
+  border: 2px solid #bbb;
+  width: 650px;
+  margin: 16px 300px;
+}
+.PostHeader {
+  height: 50px;
+  width: 630px;
+  margin-left: 20px;
+}
+.PostDetailsWrapper {
+  display: inline-block;
+}
+.PostName {
+  font-size: 20px;
+  font-weight: 600;
+}
+.PostLocation {
+  color: #bbb;
+}
+.PostOptions {
+  font-size: 30px;
+  font-weight: 500;
+  margin-right: 20px;
+  float: right;
+}
+.PostImage span img {
+  height: 250px;
+  width: 650px;
+}
+.PostFooter {
+  height: 100px;
+  width: 650px;
+}
+.LikeIcon img {
+  height: 20px;
+  width: 20px;
+}
+.ShareIcon img {
+  height: 20px;
+  width: 20px;
+}
+/* }
+.LikeShareContainer {
+  margin-top: 5px;
+  display: flex;
+  flex-direction: row;
+}
+.LikeIcon {
+  margin-left: 10px;
+}
+.ShareIcon {
+  margin-left: 10px;
+}
+.PostedOn {
+} */
+.Likes {
+  margin-left: 20px;
+  font-size: 14px;
+}
+.LikeShareContainer div {
+  display: inline-block;
+  margin-top: 0%;
+}
+
+.LikeIcon {
+  margin: 15px;
+  cursor: pointer;
+}
+.likeCount {
+  margin-top: -18px;
+  font-size: 10px;
+  color: #b3b3b3;
+}
+
+.PostedOn {
+  font-size: 15px;
+  float: right;
+  margin-right: 10px;
+  font-weight: 500;
+  color: #b3b3b3;
+}
+
+.Likes {
+  margin-left: 15px;
+  margin-top: 0%;
+}
+.PostCaption {
+  margin-left: 15px;
+  font-weight: 700;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}

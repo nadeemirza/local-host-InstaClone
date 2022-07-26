@@ -1,0 +1,59 @@
+/* .div1{
+    width: 100%;
+    margin-top: 60px;
+    
+} */
+
+.main {
+  padding: 1%;
+  width: fit-content;
+  margin: 20px auto;
+  height: 200px;
+  display: flex;
+  justify-content: space-between;
+  border: solid 1px;
+  padding-top: 2%;
+  background-color: rgb(190, 169, 131);
+  border-radius: 5px;
+}
+.file {
+  border: solid 1px;
+  width: 96%;
+  height: 10%;
+  margin-bottom: 4%;
+  padding: 2%;
+  background-color: aliceblue;
+  font-size: medium;
+}
+.location {
+  margin-left: 11.5%;
+  margin-bottom: 4%;
+  width: 215px;
+  background-color: aliceblue;
+  height: 15%;
+  font-size: medium;
+}
+.author {
+  width: 215px;
+  background-color: aliceblue;
+  height: 15%;
+  font-size: medium;
+}
+.btn {
+  margin-top: 1%;
+  justify-items: center;
+  margin-bottom: 20%;
+  margin-left: 0%;
+  width: 25%;
+
+  background-color: aliceblue;
+  height: 15%;
+  font-size: 19px;
+  font-weight: bolder;
+}
+#description {
+  width: 500px;
+  background-color: aliceblue;
+  height: 15%;
+  font-size: medium;
+}

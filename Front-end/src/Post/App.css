@@ -1,0 +1,43 @@
+.LandingPage {
+  height: 100vh;
+  width: 100vw;
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+}
+.img {
+  height: 100vh;
+  width: 50vw;
+}
+img {
+  width: 570px;
+  height: 500px;
+}
+.conatiner {
+  height: 100vh;
+  width: 50vw;
+}
+button {
+  display: block;
+}
+h1 {
+  text-align: center;
+  margin-top: 230px;
+  color: #1d2ded;
+}
+button {
+  display: block;
+  margin-left: 313px;
+  margin-top: 30px;
+  padding: 5px 8px;
+  background: dodgerblue;
+  border-radius: 15%;
+  cursor: pointer;
+}
+button :hover {
+  background-color: white;
+  color: aquamarine;
+}
+a {
+  text-decoration: none;
+}
